@@ -1,0 +1,13 @@
+C:\AspNet\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\AspNet\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\AspNet\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\AspNet\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\AspNet\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\AspNet\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
